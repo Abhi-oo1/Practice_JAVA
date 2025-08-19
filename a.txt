@@ -1,0 +1,3 @@
+AbhinavReddy,2203A51693,Male
+VidhyaSagar,2203A51693,Male
+Prashu,2203A51627,Female
